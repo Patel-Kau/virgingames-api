@@ -1,0 +1,4 @@
+com\virgingameapi\steps\CurrencyGBP.class
+com\virgingameapi\testbase\TestBase.class
+com\virgingameapi\steps\CurrencyEUR.class
+com\virgingameapi\steps\CurrencySEK.class

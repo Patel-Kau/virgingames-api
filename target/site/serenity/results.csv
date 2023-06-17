@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Currency GBP","This is method to verify the Currency = GBP","SUCCESS","2023-06-17T15:35:31.267+01:00[Europe/London]","0.0","4.55"
+"Currency EUR","This is method to verify the Currency = EUR","SUCCESS","2023-06-17T15:35:31.270+01:00[Europe/London]","0.0","4.39"
+"Currency SEK","This is method to verify the Currency = SEK","SUCCESS","2023-06-17T15:35:37.208+01:00[Europe/London]","0.0","0.35"

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.virgingameapi.steps.CurrencyEUR
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.309 sec - in com.virgingameapi.steps.CurrencyEUR

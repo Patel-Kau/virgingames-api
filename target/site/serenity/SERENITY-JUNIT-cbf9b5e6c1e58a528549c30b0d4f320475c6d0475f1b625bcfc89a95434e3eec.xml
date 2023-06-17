@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="com.virgingameapi.steps.CurrencyGBP" skipped="0" tests="1" time="4.55" timestamp="2023-06-17T15:35:31.267+01:00[Europe/London]"><testcase classname="com.virgingameapi.steps.CurrencyGBP" name="This is method to verify the Currency = GBP"/></testsuite>
